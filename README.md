@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdityaPrakash-03
+- 👋 Hi, I’m Aditya
 - 👀 I’m interested in app development , ai , pc building and tech stuff
 - 🌱 I’m currently learning more about app development, ai and open source.
 - 💞️ I’m looking to collaborate on anything related to my domain
