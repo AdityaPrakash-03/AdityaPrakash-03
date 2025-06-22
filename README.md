@@ -48,8 +48,8 @@ Yes, my AI doesn’t just stalk people — it does so **ethically** 😇.
 ### 📡 Still reading? Impressive. Here's how to reach me:
 
 - 📫 Email: [prakashaditya061@gmail.com](mailto:prakashaditya061@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/adityaprakash0302/)  (vist to know my accomplishments)
-- 🐦 [X / Twitter](https://x.com/Adi_03_02)  (vist to know me more (do vist, its very interesting))
+- 💼 [LinkedIn](https://www.linkedin.com/in/adityaprakash0302/)  (visit to know my accomplishments)
+- 🐦 [X / Twitter](https://x.com/Adi_03_02)  (vist to know me more (do visit, its very interesting))
 - 🧠 Brain-to-brain interface coming soon... stay tuned.
 
 ---
