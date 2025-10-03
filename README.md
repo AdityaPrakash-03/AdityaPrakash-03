@@ -32,16 +32,7 @@ I dabble in everything from:
 
 🤖 **Certified in Responsible AI** (Google Cloud)  
 Yes, my AI doesn’t just stalk people — it does so **ethically** 😇.
-
----
-
-### 🧾 Need proof I exist and actually do stuff?
-
-📱 [CMP-Bookpedia](https://github.com/AdityaPrakash-03/CMP-Bookpedia)  
-> Cross-platform book finder, because good books > social life.
-
-📊 [Habit Tracker](https://github.com/AdityaPrakash-03/Habit-Tracker)  
-> A judgment-free tracker that won’t guilt you for missing leg day.
+And many more added, check LinkedIn not Github
 
 ---
 
